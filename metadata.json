@@ -1,0 +1,6 @@
+{
+  "name": "हमारा संविधान",
+  "description": "कक्षा 7 के छात्रों के लिए भारतीय संविधान पर एक रंगीन, इंटरैक्टिव और मजेदार हिंदी गाइड। इसमें सिमुलेशन गेम्स, क्विज़ और ऑडियो नैरेशन शामिल हैं।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
